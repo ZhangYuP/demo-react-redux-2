@@ -9,6 +9,7 @@
     "react-scripts": "3.0.1",
     "redux": "^4.0.1"
   },
+  "homepage": "https://zhangyup.github.io/demo-react-redux-2/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
